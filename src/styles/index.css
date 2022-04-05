@@ -1,12 +1,16 @@
-
-/* 
-
-    You can write your own styles here...
+.Counter{
+    background-color: black;
+    display: flex;
+    font-size: 150px;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
+    height: 300px;
+}
 
-*/
+.one{width: 180px;
+color:white;
+text-align: center;
+background-color: rgb(36, 35, 35);
+height: 220px;
+margin:auto;
+border-radius: 30%;
+}
